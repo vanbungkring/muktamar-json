@@ -45,5 +45,71 @@
             "time": "07:00",
             "topic": "program name"
         }]
+    }, {
+        "id": 2,
+        "name": "Sheikh Waleed Basyouni",
+        "photo": "https://muktamar.us/images/demo/speakers/Sheikh_Waleed_Basyouni.jpg",
+        "description": "Sheikh Waleed Basyouni is Vice President of AlMaghrib Institute and Director of Clear Lake Islamic Center (CLIC). He is a frequent guest speaker at Universities, Conventions, Radio Talk Shows, Television, Interfaith meetings, and community centers nationally and internationally. He is also a member of the North American Imam Federation (NAIF), Assembly of Muslim Jurists in America (AMJA)-Fatwa and Research Committee, Director of Texas Dawah Convention, and Advisor to numerous Islamic Societies/Organizations around the US. Shaykh Waleed Basyouni graduated with a Bachelors in Islamic Sciences from Al-Imam Muhammad University, KSA; did his Masters in Islamic Theology, World Religions and Modern Religious Sects from Al-Imam Muhammad University; and acquired a Doctorate in Theology. He is also an instructor at the American Open University in Alexandria, VA, USA, and serves as, the Imam of Clear Lake Islamic Center, Houston, TX, USA. Shaykh Waleed has Ijaazahs in reciting the Holy Quran and in several books of Hadeeth, awarded by various scholars. He studied with great scholars time such as Shaykh Ibn Baz, Abdul-Razzaq Afify and others.",
+        "program": [{
+            "date": "12-25-2017",
+            "time": "07:00",
+            "topic": "program name"
+        }, {
+            "date": "12-25-2017",
+            "time": "07:00",
+            "topic": "program name"
+        }, {
+            "date": "12-25-2017",
+            "time": "07:00",
+            "topic": "program name"
+        }, {
+            "date": "12-25-2017",
+            "time": "07:00",
+            "topic": "program name"
+        }]
+    }, {
+        "id": 2,
+        "name": "Sheikh Waleed Basyouni",
+        "photo": "https://muktamar.us/images/demo/speakers/Sheikh_Waleed_Basyouni.jpg",
+        "description": "Sheikh Waleed Basyouni is Vice President of AlMaghrib Institute and Director of Clear Lake Islamic Center (CLIC). He is a frequent guest speaker at Universities, Conventions, Radio Talk Shows, Television, Interfaith meetings, and community centers nationally and internationally. He is also a member of the North American Imam Federation (NAIF), Assembly of Muslim Jurists in America (AMJA)-Fatwa and Research Committee, Director of Texas Dawah Convention, and Advisor to numerous Islamic Societies/Organizations around the US. Shaykh Waleed Basyouni graduated with a Bachelors in Islamic Sciences from Al-Imam Muhammad University, KSA; did his Masters in Islamic Theology, World Religions and Modern Religious Sects from Al-Imam Muhammad University; and acquired a Doctorate in Theology. He is also an instructor at the American Open University in Alexandria, VA, USA, and serves as, the Imam of Clear Lake Islamic Center, Houston, TX, USA. Shaykh Waleed has Ijaazahs in reciting the Holy Quran and in several books of Hadeeth, awarded by various scholars. He studied with great scholars time such as Shaykh Ibn Baz, Abdul-Razzaq Afify and others.",
+        "program": [{
+            "date": "12-25-2017",
+            "time": "07:00",
+            "topic": "program name"
+        }, {
+            "date": "12-25-2017",
+            "time": "07:00",
+            "topic": "program name"
+        }, {
+            "date": "12-25-2017",
+            "time": "07:00",
+            "topic": "program name"
+        }, {
+            "date": "12-25-2017",
+            "time": "07:00",
+            "topic": "program name"
+        }]
+    }, {
+        "id": 2,
+        "name": "Sheikh Waleed Basyouni",
+        "photo": "https://muktamar.us/images/demo/speakers/Sheikh_Waleed_Basyouni.jpg",
+        "description": "Sheikh Waleed Basyouni is Vice President of AlMaghrib Institute and Director of Clear Lake Islamic Center (CLIC). He is a frequent guest speaker at Universities, Conventions, Radio Talk Shows, Television, Interfaith meetings, and community centers nationally and internationally. He is also a member of the North American Imam Federation (NAIF), Assembly of Muslim Jurists in America (AMJA)-Fatwa and Research Committee, Director of Texas Dawah Convention, and Advisor to numerous Islamic Societies/Organizations around the US. Shaykh Waleed Basyouni graduated with a Bachelors in Islamic Sciences from Al-Imam Muhammad University, KSA; did his Masters in Islamic Theology, World Religions and Modern Religious Sects from Al-Imam Muhammad University; and acquired a Doctorate in Theology. He is also an instructor at the American Open University in Alexandria, VA, USA, and serves as, the Imam of Clear Lake Islamic Center, Houston, TX, USA. Shaykh Waleed has Ijaazahs in reciting the Holy Quran and in several books of Hadeeth, awarded by various scholars. He studied with great scholars time such as Shaykh Ibn Baz, Abdul-Razzaq Afify and others.",
+        "program": [{
+            "date": "12-25-2017",
+            "time": "07:00",
+            "topic": "program name"
+        }, {
+            "date": "12-25-2017",
+            "time": "07:00",
+            "topic": "program name"
+        }, {
+            "date": "12-25-2017",
+            "time": "07:00",
+            "topic": "program name"
+        }, {
+            "date": "12-25-2017",
+            "time": "07:00",
+            "topic": "program name"
+        }]
     }]
 }

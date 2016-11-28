@@ -7,39 +7,39 @@
 		"place": "some place",
 		"program": [{
 			"time": "07:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "09:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "10:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "11:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "12:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "13:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "16:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "22:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "23:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}],
 		"description": "Some description"
@@ -49,39 +49,39 @@
 		"place": "some place",
 		"program": [{
 			"time": "07:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "09:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "10:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "11:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "12:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "13:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "16:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "22:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "23:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}],
 		"description": "Some description"
@@ -91,39 +91,39 @@
 		"place": "some place",
 		"program": [{
 			"time": "07:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "09:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "10:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "11:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "12:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "13:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "16:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "22:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "23:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}],
 		"description": "Some description"
@@ -133,39 +133,39 @@
 		"place": "some place",
 		"program": [{
 			"time": "07:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "09:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "10:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "11:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "12:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "13:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "16:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "22:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}, {
 			"time": "23:00",
-			"programName": "program name",
+			"topic": "program name",
 			"speaker": "tito karnavian"
 		}],
 		"description": "Some description"

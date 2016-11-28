@@ -9,23 +9,19 @@
         "program": [{
             "date": "12-25-2017",
             "time": "07:00",
-            "programName": "program name",
-            "speaker": "tito karnavian"
+            "topic": "program name"
         }, {
             "date": "12-25-2017",
             "time": "07:00",
-            "programName": "program name",
-            "speaker": "tito karnavian"
+            "topic": "program name",
         }, {
             "date": "12-25-2017",
             "time": "07:00",
-            "programName": "program name",
-            "speaker": "tito karnavian"
+            "topic": "program name"
         }, {
             "date": "12-25-2017",
             "time": "07:00",
-            "programName": "program name",
-            "speaker": "tito karnavian"
+            "topic": "program name"
         }]
     }, {
         "id": 2,
@@ -35,79 +31,19 @@
         "program": [{
             "date": "12-25-2017",
             "time": "07:00",
-            "programName": "program name",
-            "speaker": "tito karnavian"
+            "topic": "program name"
         }, {
             "date": "12-25-2017",
             "time": "07:00",
-            "programName": "program name",
-            "speaker": "tito karnavian"
+            "topic": "program name"
         }, {
             "date": "12-25-2017",
             "time": "07:00",
-            "programName": "program name",
-            "speaker": "tito karnavian"
+            "topic": "program name"
         }, {
             "date": "12-25-2017",
             "time": "07:00",
-            "programName": "program name",
-            "speaker": "tito karnavian"
+            "topic": "program name"
         }]
-    }, {
-        "id": 3,
-        "name": "Imam Fahmi Zubir",
-        "photo": "https://muktamar.us/images/demo/speakers/Ust_Fahmy.jpg",
-        "description": "He is a full imam of at IMAAM Center, Washington, DC. He is originally from Indonesia. He graduated from Al-Azhar University, Cairo with Bachelor Degree in Theology in 2000, and from Syiah Kuala University, Indonesia with Master Degree in Education Management. Ustadz Fahmi has many experiences in dakwah and religious training in Indonesia, Singapore, Malaysia, Egypt, Saudi Arabia, United Emirate Arab, and Japan. He is also very active in many social activities such as become a trainer in disaster reduction risks, traumatic healings for tsunami orphans, humanitarian care consultation, motivation activation for teachers, and many others. He is also active in many social and religious organizations such as Majlis Intelectual Ulama Muda Indonesia (MIUMI), Aceh Bina Ummat Foundation, Aceh Peduli Pendidikan (APP), Mitra Manajemen Zakat Consulting (MMZC), and Masyarakat Peduli Pendidikan Foundation.",
-        "program": [{
-            "date": "12-25-2017",
-            "time": "07:00",
-            "programName": "program name",
-            "speaker": "tito karnavian"
-        }, {
-            "date": "12-25-2017",
-            "time": "07:00",
-            "programName": "program name",
-            "speaker": "tito karnavian"
-        }, {
-            "date": "12-25-2017",
-            "time": "07:00",
-            "programName": "program name",
-            "speaker": "tito karnavian"
-        }, {
-            "date": "12-25-2017",
-            "time": "07:00",
-            "programName": "program name",
-            "speaker": "tito karnavian"
-        }]
-    }, {
-        "id": 4,
-        "name": "Ustadzah Rita S Pritarini",
-        "photo": "https://muktamar.us/images/demo/speakers/Rita.jpg",
-        "description": "Ustadzah Rita Pritarini, mother of three, after graduated from Gontor Boarding School earned her double degree from Indonesia University for Arabic Language major and Tafseer Hadits from Islamic Institute Jakarta. She is currently an Islamic Studies teacher at Salam Islamic School Missouri. One of her daughters memorized Quran at the age of 12."
-    }, {
-        "id": 5,
-        "name": "Ustadz Salim A Fillah",
-        "photo": "https://muktamar.us/images/demo/speakers/Ustadz_Salim_A_Fillah.jpg",
-        "description": "Salim A. Fillah adalah penulis buku-buku islami produktif asal Yogyakarta. Sejak kecil dia sudah menggemari buku. Dunia tulis-menulis mulai ditekuninya ketika menempuh pendidikan di SMA Teladan Yogyakarta.[2] Aktivitas kepenulisannya mulai dikenal secara luas ketika menerbitkan buku Nikmatnya Pacaran Setelah Pernikahan (2003). Buku tersebut sekaligus merupakan buku pertama yang diterbikan oleh Pro-U Media. Selain menulis buku, Salim A. Fillah juga aktif dalam kepengurusan Masjid Jogokariyan Yogyakarta. Di masjid ini, Salim A. Fillah berlaku sebagai pengasuh pengajian Majelis Jejak Nabi. Karya: Nikmatnya Pacaran Setelah Pernikahan (2003) Agar Bidadari Cemburu Padamu (2004) Barakallahu Laka: Bahagianya Merayakan Cinta (2005) Gue Never Die (2006) Saksikan Bahwa Aku Seorang Muslim (2007) Jalan Cinta Para Pejuang (2008) Dalam Dekapan Ukhuwah (2010) Lapis-lapis Keberkahan (2014)."
-    }, {
-        "id": 5,
-        "name": "Ustadz Salim A Fillah",
-        "photo": "https://muktamar.us/images/demo/speakers/Ustadz_Salim_A_Fillah.jpg",
-        "description": "Salim A. Fillah adalah penulis buku-buku islami produktif asal Yogyakarta. Sejak kecil dia sudah menggemari buku. Dunia tulis-menulis mulai ditekuninya ketika menempuh pendidikan di SMA Teladan Yogyakarta.[2] Aktivitas kepenulisannya mulai dikenal secara luas ketika menerbitkan buku Nikmatnya Pacaran Setelah Pernikahan (2003). Buku tersebut sekaligus merupakan buku pertama yang diterbikan oleh Pro-U Media. Selain menulis buku, Salim A. Fillah juga aktif dalam kepengurusan Masjid Jogokariyan Yogyakarta. Di masjid ini, Salim A. Fillah berlaku sebagai pengasuh pengajian Majelis Jejak Nabi. Karya: Nikmatnya Pacaran Setelah Pernikahan (2003) Agar Bidadari Cemburu Padamu (2004) Barakallahu Laka: Bahagianya Merayakan Cinta (2005) Gue Never Die (2006) Saksikan Bahwa Aku Seorang Muslim (2007) Jalan Cinta Para Pejuang (2008) Dalam Dekapan Ukhuwah (2010) Lapis-lapis Keberkahan (2014)."
-    }, {
-        "id": 5,
-        "name": "Ustadz Salim A Fillah",
-        "photo": "https://muktamar.us/images/demo/speakers/Ustadz_Salim_A_Fillah.jpg",
-        "description": "Salim A. Fillah adalah penulis buku-buku islami produktif asal Yogyakarta. Sejak kecil dia sudah menggemari buku. Dunia tulis-menulis mulai ditekuninya ketika menempuh pendidikan di SMA Teladan Yogyakarta.[2] Aktivitas kepenulisannya mulai dikenal secara luas ketika menerbitkan buku Nikmatnya Pacaran Setelah Pernikahan (2003). Buku tersebut sekaligus merupakan buku pertama yang diterbikan oleh Pro-U Media. Selain menulis buku, Salim A. Fillah juga aktif dalam kepengurusan Masjid Jogokariyan Yogyakarta. Di masjid ini, Salim A. Fillah berlaku sebagai pengasuh pengajian Majelis Jejak Nabi. Karya: Nikmatnya Pacaran Setelah Pernikahan (2003) Agar Bidadari Cemburu Padamu (2004) Barakallahu Laka: Bahagianya Merayakan Cinta (2005) Gue Never Die (2006) Saksikan Bahwa Aku Seorang Muslim (2007) Jalan Cinta Para Pejuang (2008) Dalam Dekapan Ukhuwah (2010) Lapis-lapis Keberkahan (2014)."
-    }, {
-        "id": 5,
-        "name": "Ustadz Salim A Fillah",
-        "photo": "https://muktamar.us/images/demo/speakers/Ustadz_Salim_A_Fillah.jpg",
-        "description": "Salim A. Fillah adalah penulis buku-buku islami produktif asal Yogyakarta. Sejak kecil dia sudah menggemari buku. Dunia tulis-menulis mulai ditekuninya ketika menempuh pendidikan di SMA Teladan Yogyakarta.[2] Aktivitas kepenulisannya mulai dikenal secara luas ketika menerbitkan buku Nikmatnya Pacaran Setelah Pernikahan (2003). Buku tersebut sekaligus merupakan buku pertama yang diterbikan oleh Pro-U Media. Selain menulis buku, Salim A. Fillah juga aktif dalam kepengurusan Masjid Jogokariyan Yogyakarta. Di masjid ini, Salim A. Fillah berlaku sebagai pengasuh pengajian Majelis Jejak Nabi. Karya: Nikmatnya Pacaran Setelah Pernikahan (2003) Agar Bidadari Cemburu Padamu (2004) Barakallahu Laka: Bahagianya Merayakan Cinta (2005) Gue Never Die (2006) Saksikan Bahwa Aku Seorang Muslim (2007) Jalan Cinta Para Pejuang (2008) Dalam Dekapan Ukhuwah (2010) Lapis-lapis Keberkahan (2014)."
-    }, {
-        "id": 5,
-        "name": "Ustadz Salim A Fillah",
-        "photo": "https://muktamar.us/images/demo/speakers/Ustadz_Salim_A_Fillah.jpg",
-        "description": "Salim A. Fillah adalah penulis buku-buku islami produktif asal Yogyakarta. Sejak kecil dia sudah menggemari buku. Dunia tulis-menulis mulai ditekuninya ketika menempuh pendidikan di SMA Teladan Yogyakarta.[2] Aktivitas kepenulisannya mulai dikenal secara luas ketika menerbitkan buku Nikmatnya Pacaran Setelah Pernikahan (2003). Buku tersebut sekaligus merupakan buku pertama yang diterbikan oleh Pro-U Media. Selain menulis buku, Salim A. Fillah juga aktif dalam kepengurusan Masjid Jogokariyan Yogyakarta. Di masjid ini, Salim A. Fillah berlaku sebagai pengasuh pengajian Majelis Jejak Nabi. Karya: Nikmatnya Pacaran Setelah Pernikahan (2003) Agar Bidadari Cemburu Padamu (2004) Barakallahu Laka: Bahagianya Merayakan Cinta (2005) Gue Never Die (2006) Saksikan Bahwa Aku Seorang Muslim (2007) Jalan Cinta Para Pejuang (2008) Dalam Dekapan Ukhuwah (2010) Lapis-lapis Keberkahan (2014)."
     }]
 }
